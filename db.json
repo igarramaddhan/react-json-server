@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "title": "Test Post Lalala 123",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "title": "Test Post 4",
+      "author": "Test User 2",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "title": "Test User 1",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "title": "asdf",
+      "author": "Test Author 1",
+      "id": 7
+    },
+    {
+      "title": "123123",
+      "author": "Test Author 1",
+      "id": 8
+    },
+    {
+      "title": "9012980109890809",
+      "author": "Test Author 1",
+      "id": 9
+    },
+    {
+      "title": "asdf",
+      "author": "Test Author 1",
+      "id": 10
+    },
+    {
+      "title": "123123",
+      "author": "Test Author 1",
+      "id": 11
+    },
+    {
+      "title": "123123",
+      "author": "Test Author 1",
+      "id": 12
+    },
+    {
+      "title": "test stale",
+      "author": "Test Author 1",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "email": "test@mail.com",
+      "password": "$2a$10$v4GyqXQNQ2YQz.g91U/8cOd6eGwnNUYgwbJnr2FV2Ak8fDTkITpCC",
+      "name": "Test User 1",
+      "id": 1
+    },
+    {
+      "email": "test2@mail.com",
+      "password": "$2a$10$wfzp3uqb36YIUf4vwgHZ.eDtHlifP2gmWmpoGUOFDrE/7lBEK/.I6",
+      "name": "Test User 2",
+      "id": 2
+    },
+    {
+      "email": "test3@mail.com",
+      "password": "$2a$10$G2Du7m9wSAU6UfruFoZbpOyjV3yYUvGgvpgbWq58bUYmOyIcYJ/dy",
+      "name": "Test User 3",
+      "id": 3
+    }
+  ]
+}
